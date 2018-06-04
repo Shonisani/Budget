@@ -1,0 +1,7 @@
+table{
+    background: url("../assets/money.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+}
